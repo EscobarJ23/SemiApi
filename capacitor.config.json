@@ -1,0 +1,13 @@
+{
+  "appId": "com.example.app",
+  "appName": "semi-api",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist/SemiApi",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
